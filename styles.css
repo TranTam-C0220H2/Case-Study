@@ -1,0 +1,16 @@
+#myPicture {
+    margin: auto;
+    max-width: 600px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    border-radius: 8px;
+    background: deepskyblue;
+}
+img {
+    width: 100px;
+    height: 140px;
+}
+#mySize {
+    margin-left: 40%;
+}
+
